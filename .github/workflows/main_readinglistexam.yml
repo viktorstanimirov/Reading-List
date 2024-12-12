@@ -59,4 +59,4 @@ jobs:
           app-name: 'readinglistexam'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7DE33384FE8472A80630A3692A77305 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_723530EAD59A46A5BF937753C0919411 }}
